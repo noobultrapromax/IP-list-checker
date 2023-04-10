@@ -1,2 +1,2 @@
-# IP-reputation-check
-Check IP reputation from a list of IP, requires virus total API.
+# IP-List-Checker
+Check IP reputation from a list of IPs, requires virus total API.
